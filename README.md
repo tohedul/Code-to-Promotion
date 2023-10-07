@@ -10,4 +10,4 @@ This repo is to guide how to write code to get a job or launch a product and mar
 # Contribution
 Contributions are welcome. 
 
-See CONTRIBUITING.md for contribuition guidance.
+See [CONTRIBUITING.md](https://github.com/tohedul/Code-to-Promotion/blob/main/CONTRIBUTING.md) for contribution guidance.
