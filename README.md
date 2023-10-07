@@ -1,6 +1,11 @@
 # Code-to-Promotion
-This repo is to guide how to write code to launch a product and market it.
-Here you can get resources that will help you learn programming, get a job or build a software product, and how to market it.
+This repo is to guide how to write code to get a job or launch a product and market it.
+
+# What get here
+- Learn programming language
+- Get a job
+- Develop a software product
+- Market the product
 
 # Contribution
 Contributions are welcome. 
