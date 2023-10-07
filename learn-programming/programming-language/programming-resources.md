@@ -22,14 +22,26 @@
 # Java
 
 
+# Javascript
+
+
 # Kotlin
 
 
+# PHP
+
+
 # Python
+
+
+# Ruby
 
 
 # Rust
 
 
 # Scala
+
+
+# Swift
 
